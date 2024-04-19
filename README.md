@@ -3,4 +3,4 @@
 Nama: Rahman Hakim
 NIM: 607062330006
 
-[img](assets/img.png)
+![img](assets/img.png)
